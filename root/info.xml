@@ -1,6 +1,6 @@
 <extension version="1">
   <name>GarbageCollector</name>
-  <description>A simple WebCTRL add-on which invoked System.gc() every 5 minutes.</description>
+  <description>A simple WebCTRL add-on which invokes System.gc() every 5 minutes.</description>
   <version>1.0.0</version>
   <vendor>Automatic Controls Equipment Systems, Inc.</vendor>
 </extension>
